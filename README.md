@@ -19,7 +19,7 @@ Practicar lo aprendido en HTML y CSS, mejorando poco a poco mi diseño web. Me e
 
 ## Preview
 
-![Preview]()
+![Preview](https://github.com/Alexiszwxz/Alexiszwxz-Mi_carta_de_presentacion_Actualizada.git)
 
 ## Autor
 
